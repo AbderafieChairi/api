@@ -117,15 +117,5 @@
             "img":"https://upload.wikimedia.org/wikipedia/fr/0/05/EMI.PNG",
             "city":"Casa"
         }
-    ],
-    "sponsors":[
-        {
-            "nom":"EMI",
-            "img":"https://upload.wikimedia.org/wikipedia/fr/0/05/EMI.PNG"
-        },
-        {
-            "nom":"IT_Academy",
-            "img":"https://upload.wikimedia.org/wikipedia/fr/0/05/EMI.PNG"
-        }
     ]
 }
