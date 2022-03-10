@@ -30,7 +30,7 @@
             "Nom":"Abderafie chairi",
             "Sexe":"M",
             "date_naissance":"01/01/2002",
-            "Ville_residence":"Rabat",
+            "Ville_residence":"Tanger",
             "Medecin_traitant":"clinique Zahraoui",
             "Metier":"Ingenieur",
             "Debut_sep":"2022",
@@ -52,14 +52,25 @@
         {
             "Nom":"Abderafie chairi",
             "Sexe":"M",
-            "date_naissance":"01/01/2002",
-            "Ville_residence":"Rabat",
+            "date_naissance":"25/11/2001",
+            "Ville_residence":"Casa",
             "Medecin_traitant":"clinique Zahraoui",
             "Metier":"Ingenieur",
             "Debut_sep":"2022",
             "Loisirs":"Sport",
             "email":"Abderafiechairi02@gmail.com"
-        }
+        },
+       {
+            "Nom":"Bouchra fathi",
+            "Sexe":"F",
+            "date_naissance":"14/07/2001",
+            "Ville_residence":"Fes",
+            "Medecin_traitant":"clinique Zahraoui",
+            "Metier":"Ingenieur",
+            "Debut_sep":"2022",
+            "Loisirs":"Sport",
+            "email":"Abderafiechairi02@gmail.com"
+        }    
     ]
     ,"sport":[
         {
