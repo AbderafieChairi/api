@@ -109,11 +109,13 @@
     "partenaire":[
         {
             "Nom":"EMI",
-            "img":"https://upload.wikimedia.org/wikipedia/fr/0/05/EMI.PNG"
+            "img":"https://upload.wikimedia.org/wikipedia/fr/0/05/EMI.PNG",
+            "city":"Rabat"
         },
         {
             "Nom":"IT_Academy",
-            "img":"https://upload.wikimedia.org/wikipedia/fr/0/05/EMI.PNG"
+            "img":"https://upload.wikimedia.org/wikipedia/fr/0/05/EMI.PNG",
+            "city":"Casa"
         }
     ]
 }
