@@ -23,7 +23,7 @@
             "details": "Pour s’épanouir dans le rôle de maman, il faut parfois imposer ses choix. Les parents devront certes être en accord mais il ne faut pas se laisser convaincre par les proches d’aller à l’encontre de ses propres convictions. C'est la maman qui décide si elle allaite ou non, c’est aussi elle qui choisira où dormira bébé. Si elle veut le garder dans sa chambre les premières semaines, c’est un choix à respecter.",
             "members": 30,
             "members_disp": 4,
-            "name": "first activity",
+            "name": "third activity",
             "public_id": "fff4fa29-480f-4fb7-a703-e8b1c30d11c6",
             "img":"https://img.passeportsante.net/1000x526/2021-05-03/i103331-sepanouir-role-maman.webp"
         }
@@ -41,7 +41,7 @@
             "email":"Abderafiechairi02@gmail.com"
         },
         {
-            "Nom":"Jamal",
+            "Nom":"Jamal Fathi",
             "Sexe":"M",
             "date_naissance":"12/11/1999",
             "Ville_residence":"Rabat",
@@ -53,7 +53,7 @@
         },
  
         {
-            "Nom":"Abderafie chairi",
+            "Nom":"mMohammed Chakir",
             "Sexe":"M",
             "date_naissance":"25/11/2001",
             "Ville_residence":"Casa",
@@ -68,7 +68,7 @@
             "Sexe":"F",
             "date_naissance":"14/07/2001",
             "Ville_residence":"Fes",
-            "Medecin_traitant":"clinique Zahraoui",
+            "Medecin_traitant":"MED VI",
             "Metier":"Ingenieur",
             "Debut_sep":"2022",
             "Loisirs":"Sport",
