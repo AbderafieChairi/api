@@ -30,7 +30,7 @@
     ],
     "users":[
         {
-            "Nom":"Abderafie chairi",
+            "Nom":"Abderafie","prenom":"Chairi",
             "Sexe":"M",
             "date_naissance":"01/01/2002",
             "Ville_residence":"Tanger",
@@ -41,7 +41,7 @@
             "email":"Abderafiechairi02@gmail.com"
         },
         {
-            "Nom":"Jamal Fathi",
+            "Nom":"Jamal","prenom":"Fathi",
             "Sexe":"M",
             "date_naissance":"12/11/1999",
             "Ville_residence":"Rabat",
@@ -53,7 +53,7 @@
         },
  
         {
-            "Nom":"mMohammed Chakir",
+            "Nom":"Mohammed","prenom":"Chakir",
             "Sexe":"M",
             "date_naissance":"25/11/2001",
             "Ville_residence":"Casa",
@@ -64,7 +64,7 @@
             "email":"Abderafiechairi02@gmail.com"
         },
        {
-            "Nom":"Bouchra fathi",
+            "Nom":"Bouchra","prenom":"fathi",
             "Sexe":"F",
             "date_naissance":"14/07/2001",
             "Ville_residence":"Fes",
