@@ -1,124 +1,50 @@
 {
     "activities": [
         {
-            "date": "13/03/20222",
+            "public_id": "fff4fa29-480f-4fb7-a703-e8b1c30d11c6",
+        	"state":"attend",
+            "name": "first activity",
+            "date": "03 Mars",
+            "city":"Rabat",
             "details": "En grandissant, un arbre peut s’épanouir, mais également stagner ou encore se détériorer. Tout comme un individu. Comme le bon vin, certains s’améliorent avec le temps tandis que d’autres régressent et tournent au vinaigre avec les années.",
             "members": 30,
-            "members_disp": 4,
+            "submembers": 4,
+            "submit":false
+        },
+        {
+            "public_id": "fff4fa29-480f-4fb7-a703-e8b1c30d11c6",
+        	"state":"attend",
             "name": "first activity",
-            "public_id": "fff4fa29-480f-4fb7-a703-e8b1c30d11c6",
-            "img":"https://pierrettedesrosiers.com/wp-content/uploads/2017/04/pourquoi-et-comment-sepanouir-pierrette-desrosiers.jpg"
-        },
-        {
-            "date": "12/04/2022",
-            "details": "Afin de s’épanouir tout en étant bien ancrée dans notre nature intime, il est important de nourrir la connexion entre nous et  notre essence profonde. Cette connexion est essentielle afin de réaliser notre plein potentiel et de rayonner notre couleur personnelle.",
-            "members": 50,
-            "members_disp": 12,
-            "name": "second activity",
-            "public_id": "8894ac98-6710-4cce-a24e-ba277afb5e88",
-            "img":"http://mariechantalbrisson.com/wp-content/uploads/2014/05/epanouir.png"
-        },
-        {
-            "date": "02/05/2022",
-            "details": "Pour s’épanouir dans le rôle de maman, il faut parfois imposer ses choix. Les parents devront certes être en accord mais il ne faut pas se laisser convaincre par les proches d’aller à l’encontre de ses propres convictions. C'est la maman qui décide si elle allaite ou non, c’est aussi elle qui choisira où dormira bébé. Si elle veut le garder dans sa chambre les premières semaines, c’est un choix à respecter.",
+            "date": "03 Mars",
+            "city":"Rabat",
+            "details": "En grandissant, un arbre peut s’épanouir, mais également stagner ou encore se détériorer. Tout comme un individu. Comme le bon vin, certains s’améliorent avec le temps tandis que d’autres régressent et tournent au vinaigre avec les années.",
             "members": 30,
-            "members_disp": 4,
-            "name": "third activity",
+            "submembers": 4,
+            "submit":false
+        },
+        {
             "public_id": "fff4fa29-480f-4fb7-a703-e8b1c30d11c6",
-            "img":"https://img.passeportsante.net/1000x526/2021-05-03/i103331-sepanouir-role-maman.webp"
-        }
+        	"state":"attend",
+            "name": "first activity",
+            "date": "03 Mars",
+            "city":"Rabat",
+            "details": "En grandissant, un arbre peut s’épanouir, mais également stagner ou encore se détériorer. Tout comme un individu. Comme le bon vin, certains s’améliorent avec le temps tandis que d’autres régressent et tournent au vinaigre avec les années.",
+            "members": 30,
+            "submembers": 4,
+            "submit":false
+        },
+        {
+            "public_id": "fff4fa29-480f-4fb7-a703-e8b1c30d11c6",
+        	"state":"attend",
+            "name": "first activity",
+            "date": "03 Mars",
+            "city":"Rabat",
+            "details": "En grandissant, un arbre peut s’épanouir, mais également stagner ou encore se détériorer. Tout comme un individu. Comme le bon vin, certains s’améliorent avec le temps tandis que d’autres régressent et tournent au vinaigre avec les années.",
+            "members": 30,
+            "submembers": 4,
+            "submit":false
+        },
+
     ],
-    "users":[
-        {
-            "Nom":"Abderafie","prenom":"Chairi",
-            "Sexe":"M",
-            "date_naissance":"01/01/2002",
-            "Ville_residence":"Tanger",
-            "Medecin_traitant":"clinique Zahraoui",
-            "Metier":"Ingenieur",
-            "Debut_sep":"2022",
-            "Loisirs":"Sport",
-            "email":"Abderafiechairi02@gmail.com"
-        },
-        {
-            "Nom":"Jamal","prenom":"Fathi",
-            "Sexe":"M",
-            "date_naissance":"12/11/1999",
-            "Ville_residence":"Rabat",
-            "Medecin_traitant":"clinique Med VI",
-            "Metier":"Prof",
-            "Debut_sep":"2020",
-            "Loisirs":"Lire",
-            "email":"Jamalcaste@gmail.com"
-        },
- 
-        {
-            "Nom":"Mohammed","prenom":"Chakir",
-            "Sexe":"M",
-            "date_naissance":"25/11/2001",
-            "Ville_residence":"Casa",
-            "Medecin_traitant":"clinique Zahraoui",
-            "Metier":"Ingenieur",
-            "Debut_sep":"2022",
-            "Loisirs":"Sport",
-            "email":"Abderafiechairi02@gmail.com"
-        },
-       {
-            "Nom":"Bouchra","prenom":"fathi",
-            "Sexe":"F",
-            "date_naissance":"14/07/2001",
-            "Ville_residence":"Fes",
-            "Medecin_traitant":"MED VI",
-            "Metier":"Ingenieur",
-            "Debut_sep":"2022",
-            "Loisirs":"Sport",
-            "email":"Abderafiechairi02@gmail.com"
-        }    
-    ]
-    ,"sport":[
-        {
-            "titre":"sport_1",
-            "details":"Sport pertains to any form of competitive physical activity or game that aims to use, maintain or improve physical ability and skills while providing enjoyment to participants and, in some cases, entertainment to spectators.",
-            "img":"https://www.irbms.com/wp-content/uploads/2019/09/choisr-un-sport-1280-600x400.png",
-            "url":"https://www.irbms.com/choisir-sport/"
-        },
-        {
-            "titre":"sport_1",
-            "details":"Sport pertains to any form of competitive physical activity or game that aims to use, maintain or improve physical ability and skills while providing enjoyment to participants and, in some cases, entertainment to spectators.",
-            "img":"https://www.irbms.com/wp-content/uploads/2019/09/choisr-un-sport-1280-600x400.png",
-            "url":"https://www.irbms.com/choisir-sport/"
-        },
-        {
-            "titre":"sport_1",
-            "details":"Sport pertains to any form of competitive physical activity or game that aims to use, maintain or improve physical ability and skills while providing enjoyment to participants and, in some cases, entertainment to spectators.",
-            "img":"https://www.irbms.com/wp-content/uploads/2019/09/choisr-un-sport-1280-600x400.png",
-            "url":"https://www.irbms.com/choisir-sport/"
-        }
-    ],
-    "alimentation":[
-        {
-            "titre":"alimentation saine",
-            "details":"On ne le répétera jamais assez et pourtant le corps en a besoin. Quand vous ressentez la sensation de soif c’est que le corps est déjà en phase de déshydratation et qu’il réclame que vous buviez. Bien s’hydrater avec au moins 2 litres d’eau par jour joue un rôle fondamental pour notre état général."
-        },
-        {
-            "titre":"alimentation saine",
-            "details":"On ne le répétera jamais assez et pourtant le corps en a besoin. Quand vous ressentez la sensation de soif c’est que le corps est déjà en phase de déshydratation et qu’il réclame que vous buviez. Bien s’hydrater avec au moins 2 litres d’eau par jour joue un rôle fondamental pour notre état général."
-        },
-        {
-            "titre":"alimentation saine",
-            "details":"On ne le répétera jamais assez et pourtant le corps en a besoin. Quand vous ressentez la sensation de soif c’est que le corps est déjà en phase de déshydratation et qu’il réclame que vous buviez. Bien s’hydrater avec au moins 2 litres d’eau par jour joue un rôle fondamental pour notre état général."
-        }
-    ],
-    "partenaire":[
-        {
-            "nom":"EMI",
-            "img":"https://upload.wikimedia.org/wikipedia/fr/0/05/EMI.PNG",
-            "city":"Rabat"
-        },
-        {
-            "nom":"IT_Academy",
-            "img":"https://upload.wikimedia.org/wikipedia/fr/0/05/EMI.PNG",
-            "city":"Rabat"
-        }
-    ]
+    
 }
