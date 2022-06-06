@@ -1,13 +1,61 @@
 A=[
-	{date:"03 Mars",items:[
-		{public_id:"fff4fa29-480f-4fb7-a703-e8b1c30d11c6",state:"attend",name:"first activity",date:"03 Mars",city:"Rabat",details:" avec les années.",members:30,submembers:4,submit:false},
-		{public_id:"fff4fa29-480f-4fb7-a703-e8b1c30d11c6",state:"attend",name:"first activity",date:"03 Mars",city:"Rabat",details:" avec les années.",members:30,submembers:4,submit:false},
-		{public_id:"fff4fa29-480f-4fb7-a703-e8b1c30d11c6",state:"attend",name:"first activity",date:"03 Mars",city:"Rabat",details:" avec les années.",members:30,submembers:4,submit:false}
+	{
+		'date':"03 Mars",
+		'items':[
+		{
+			'public_id':"fff4fa29-480f-4fb7-a703-e8b1c30d11c6",
+			'state':"attend",
+			'name':"first activity",
+			'date':"03 Mars",
+			'city':"Rabat",
+			'details':" avec les années.",
+			'members':30,
+			'submembers':4,
+			'submit':false
+		},
+
+		{
+			'public_id':"fff4fa29-480f-4fb7-a703-e8b1c30d11c6",
+			'state':"attend",
+			'name':"first activity",
+			'date':"03 Mars",
+			'city':"Rabat",
+			'details':" avec les années.",
+			'members':30,
+			'submembers':4,
+			'submit':false
+		},
+
+		{
+			'public_id':"fff4fa29-480f-4fb7-a703-e8b1c30d11c6",
+			'state':"attend",
+			'name':"first activity",
+			'date':"03 Mars",
+			'city':"Rabat",
+			'details':" avec les années.",
+			'members':30,
+			'submembers':4,
+			'submit':false
+		}
 		]
 	},
-	{date:'04 Mars',items:[
-		{public_id:"fff4fa29-480f-4fb7-a703-e8b1c30d11c6",state:"attend",name:"first activity",date:"04 Mars",city:"Rabat",details:" avec les années.",members:30,submembers:4,submit:false}
+
+	{
+		'date':'04 Mars',
+		'items':[
+		{
+			'public_id':"fff4fa29-480f-4fb7-a703-e8b1c30d11c6",
+			'state':"attend",
+			'name':"first activity",
+			'date':"04 Mars",
+			'city':"Rabat",
+			'details':" avec les années.",
+			'members':30,
+			'submembers':4,
+			'submit':false
+		}
 		]
 	}
 
 ]
+
