@@ -1,50 +1,13 @@
-{
-    "activities": [
-        {
-            "public_id": "fff4fa29-480f-4fb7-a703-e8b1c30d11c6",
-        	"state":"attend",
-            "name": "first activity",
-            "date": "03 Mars",
-            "city":"Rabat",
-            "details": "En grandissant, un arbre peut s’épanouir, mais également stagner ou encore se détériorer. Tout comme un individu. Comme le bon vin, certains s’améliorent avec le temps tandis que d’autres régressent et tournent au vinaigre avec les années.",
-            "members": 30,
-            "submembers": 4,
-            "submit":false
-        },
-        {
-            "public_id": "fff4fa29-480f-4fb7-a703-e8b1c30d11c6",
-        	"state":"attend",
-            "name": "first activity",
-            "date": "03 Mars",
-            "city":"Rabat",
-            "details": "En grandissant, un arbre peut s’épanouir, mais également stagner ou encore se détériorer. Tout comme un individu. Comme le bon vin, certains s’améliorent avec le temps tandis que d’autres régressent et tournent au vinaigre avec les années.",
-            "members": 30,
-            "submembers": 4,
-            "submit":false
-        },
-        {
-            "public_id": "fff4fa29-480f-4fb7-a703-e8b1c30d11c6",
-        	"state":"attend",
-            "name": "first activity",
-            "date": "03 Mars",
-            "city":"Rabat",
-            "details": "En grandissant, un arbre peut s’épanouir, mais également stagner ou encore se détériorer. Tout comme un individu. Comme le bon vin, certains s’améliorent avec le temps tandis que d’autres régressent et tournent au vinaigre avec les années.",
-            "members": 30,
-            "submembers": 4,
-            "submit":false
-        },
-        {
-            "public_id": "fff4fa29-480f-4fb7-a703-e8b1c30d11c6",
-        	"state":"attend",
-            "name": "first activity",
-            "date": "03 Mars",
-            "city":"Rabat",
-            "details": "En grandissant, un arbre peut s’épanouir, mais également stagner ou encore se détériorer. Tout comme un individu. Comme le bon vin, certains s’améliorent avec le temps tandis que d’autres régressent et tournent au vinaigre avec les années.",
-            "members": 30,
-            "submembers": 4,
-            "submit":false
-        }
+A=[
+	{date:"03 Mars",items:[
+		{public_id:"fff4fa29-480f-4fb7-a703-e8b1c30d11c6",state:"attend",name:"first activity",date:"03 Mars",city:"Rabat",details:" avec les années.",members:30,submembers:4,submit:false},
+		{public_id:"fff4fa29-480f-4fb7-a703-e8b1c30d11c6",state:"attend",name:"first activity",date:"03 Mars",city:"Rabat",details:" avec les années.",members:30,submembers:4,submit:false},
+		{public_id:"fff4fa29-480f-4fb7-a703-e8b1c30d11c6",state:"attend",name:"first activity",date:"03 Mars",city:"Rabat",details:" avec les années.",members:30,submembers:4,submit:false}
+		]
+	},
+	{date:'04 Mars',items:[
+		{public_id:"fff4fa29-480f-4fb7-a703-e8b1c30d11c6",state:"attend",name:"first activity",date:"04 Mars",city:"Rabat",details:" avec les années.",members:30,submembers:4,submit:false}
+		]
+	}
 
-    ]
-    
-}
+]
